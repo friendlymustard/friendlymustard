@@ -1,4 +1,4 @@
-'''
+```
 
 hi! i’m anne :-)
       
@@ -27,7 +27,7 @@ hi! i’m anne :-)
       linkedin      = linkedin.com/in/anne-lee-han
       student_email = s10196748@connect.np.edu.sg
 
-'''
+```
 <!---
 friendlymustard/friendlymustard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
