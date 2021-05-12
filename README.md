@@ -21,9 +21,9 @@ hi, i’m anne :-)
       i have recently also been trying my hand at ui/ux development, and am 
       interested in graphic design - something i often do for my 
       co-curriculars in school :)
-      
+     
 ⚘ ᠂ ⚘ reach me
-  
+
       linkedin      = linkedin.com/in/anne-lee-han
       student_email = s10196748@connect.np.edu.sg
 
