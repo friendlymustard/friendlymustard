@@ -2,8 +2,8 @@
 
 hi, i’m anne :-)
       
-      a student from singapore, studying at ngee ann polytechnic's 
-      engineering science course, specialising in automation and 
+      a student from singapore, pursuing a diploma in engineering sceince
+      at ngee ann polytechnic, specialising in automation and 
       mechatronic systems. 
       
       i am also currently a project intern at defence science and technology 
