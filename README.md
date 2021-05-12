@@ -1,6 +1,6 @@
 ```
 
-hi! i’m anne :-)
+hi, i’m anne :-)
       
       a student from singapore, studying at ngee ann polytechnic's 
       engineering science course, specialising in automation and 
